@@ -138,4 +138,6 @@ python3 clear_uploaded_files.py
 
 --- You can adjust batch size in download_files.py for faster or slower migration.
 
+--- Never commit credentials to public repos.
+
 
