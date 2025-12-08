@@ -4,6 +4,12 @@ This project helps you **migrate files** that you uploaded in a shared Google Dr
 
 ---
 
+## 🚀 Why & When to Use  
+- You’ve used a shared folder on one account and want to transfer your personal uploads to a new account.  
+- You want a repeatable, logged, partially automated migration process with rollback/recovery support.  
+
+---
+
 ## ✅ Features
 
 - Downloads only the files **you own** from a shared folder.
