@@ -46,8 +46,8 @@ drive_file_migration/
 │   ├── credentials.json           # OAuth2 credentials from account 2
 │   └── token.json                 # Will be created after first login
 │
-├── downloaded_books/
-│   └── Books/                     # downloaded files appear here
+├── downloaded_files/
+│   └── Files/                     # downloaded files appear here
 │
 ├── migration_log.csv
 │
