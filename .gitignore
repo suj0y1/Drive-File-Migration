@@ -3,3 +3,4 @@ account1_download/
 account2_upload/
 downloaded_files/
 *.csv
+*.json
