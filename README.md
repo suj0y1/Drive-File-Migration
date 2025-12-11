@@ -34,6 +34,8 @@ This project helps you **migrate files** that you uploaded in a shared Google Dr
 
 ## 📁 Folder Structure
 
+```md
+
 drive_file_migration/
 │
 ├── account1_download/             # For your first Google account (download)
@@ -57,6 +59,7 @@ drive_file_migration/
 └── README.md
 └── .gitignore                     # Optional: ignore token files
 
+```
 
 ---
 
